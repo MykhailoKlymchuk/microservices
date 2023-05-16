@@ -1,7 +1,7 @@
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\model\Product.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\dto\ProductRequest.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\controller\ProductController.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\ProductServiceApplication.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\dto\ProductResponse.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\repository\ProductRepository.java
-C:\projects\microservices\product-service\src\main\java\com\microservice\productservice\service\ProductService.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\repository\ProductRepository.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\service\ProductService.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\ProductServiceApplication.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\model\Product.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\controller\ProductController.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\dto\ProductResponse.java
+C:\projects\microservices\product-service\src\main\java\com\programmingtechie\productservice\dto\ProductRequest.java
