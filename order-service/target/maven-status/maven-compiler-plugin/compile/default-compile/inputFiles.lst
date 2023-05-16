@@ -1,0 +1,9 @@
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\model\Order.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\controller\OrderController.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\dto\InventoryResponse.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\repository\OrderRepository.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\services\OrderService.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\dto\OrderLineItemsDto.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\model\OrderLineItems.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\OrderServiceApplication.java
+C:\projects\microservices\order-service\src\main\java\com\microservice\orderservice\dto\OrderRequest.java
