@@ -22,17 +22,10 @@ import java.math.BigDecimal;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @SpringBootTest
-/*
 @Testcontainers
 @AutoConfigureMockMvc
-
- */
 class ProductServiceApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
-/*
     @Container
     static MongoDBContainer mongoDBContainer = new MongoDBContainer("mongo:4.4.2");
     @Autowired
@@ -65,7 +58,5 @@ class ProductServiceApplicationTests {
                 .price(BigDecimal.valueOf(1200))
                 .build();
     }
-
- */
 
 }
