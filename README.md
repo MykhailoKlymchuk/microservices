@@ -1,7 +1,14 @@
 # Spring Boot Microservices
-This repository contains the latest source code of the spring-boot-microservices tutorial
-
-You can watch the tutorial on Youtube here - https://www.youtube.com/watch?v=mPPhcU7oWDU&t=20634s
+This repository contains the training source code for the Microservice Architecture course:
+1. Build Services
+2. Service Discovery using Netflix Eureka
+2. Implement API Gateway using Spring Cloud Gateway
+3. Secure Microservices using Keycloak
+4. Implement Circuit Breaker
+5. Implement Distributed Tracing
+6. Event Driven Architecture using Kafka
+7. Dockerize the application
+8. Monitoring Microservices using Prometheus and Grafana
 
 ## How to run the application using Docker
 
